@@ -1,5 +1,4 @@
-# CNN Bayesian Optimization Implementation
-
+# Otimização Bayesiana aplicada a CNN.
 
 
 ## Funcionamento
